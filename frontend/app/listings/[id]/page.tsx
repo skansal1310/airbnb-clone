@@ -93,7 +93,7 @@ interface Review {
 // PAGE
 // ---------------------------------------------------------
 
-export default function ListingDetailPage() {
+function ListingDetailContent() {
 
   const params = useParams();
 
